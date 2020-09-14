@@ -1,0 +1,6 @@
+# filename gemfile
+
+source 'https://rubygems.org'
+# ruby '2.7.1'
+
+gem 'cucumber-api-steps', git: 'http://github.com/ragapinilih/cucumber-api-steps.git', branch: 'ragapinilih/external_url'
